@@ -1,0 +1,16 @@
+Welcome to the spellchecker help page. Below is a table of contents.
+
+1. Workflow and Functionailty.
+2. Adding New Words to the Dictionary.
+
+
+
+1. Workflow and Functionailty.
+
+	When you launch the spellchecker you will be met with a few simple options in the top left of the window. To open a new document select open, and select your .txt document using the file explorer. Once you open a document it will be automatically spellchecked with misspelled words highlighted in red. To correct a spelling mistake click the word and it will automatically . On the side of the scren you will see several options including words from the dictionary that are close to your misspelled word, you can click any of these words to replac your misspelled word. Under the word suggestions there will also be options to ignore the word once, ignore for the rest of the session, or add the word to the dictionary. Clicking any of these options will also resolve the misspelled word. Once you're done editing your document you can use the options at the top left of the window to save your document.
+
+
+
+2. Adding Words to the Dictionary.
+
+	The spellchecker works by relying on a dictionary to look up words from. When you start up the spellchecker it loads the dictionary so words can be checked. When you ignore a word for just this session it adds that word into the list of correcty spelled words stored by the program but does not store it in the dictionary file so when you close and start the dictionary again that word will be spelled incorrecty again. In order to avoid this you also have the option to add the word to the dictionary, this has the same effect as adding the word for the session with the additional effect being that it will add this word into the dicticatonary that the spellchecker stores, so when you close and open the application again this word will be remebered by the program. Ignoreing once simply marks that specific word as spelled correctly and makes no other changes. 
